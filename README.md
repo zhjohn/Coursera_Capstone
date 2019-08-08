@@ -1,8 +1,11 @@
 #####################################
 # Good Reference
 #####################################
+
 https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/
+
 https://github.com/kb22/Coursera_Capstone
+
 
 
 On the Mac:
